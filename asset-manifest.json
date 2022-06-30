@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Stutern-counter-Assignment/static/css/main.b983589f.css",
+    "main.js": "/Stutern-counter-Assignment/static/js/main.e5f00880.js",
+    "static/js/787.59dc76f1.chunk.js": "/Stutern-counter-Assignment/static/js/787.59dc76f1.chunk.js",
+    "index.html": "/Stutern-counter-Assignment/index.html",
+    "main.b983589f.css.map": "/Stutern-counter-Assignment/static/css/main.b983589f.css.map",
+    "main.e5f00880.js.map": "/Stutern-counter-Assignment/static/js/main.e5f00880.js.map",
+    "787.59dc76f1.chunk.js.map": "/Stutern-counter-Assignment/static/js/787.59dc76f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b983589f.css",
+    "static/js/main.e5f00880.js"
+  ]
+}
