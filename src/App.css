@@ -1,0 +1,41 @@
+.App {
+  
+  background-color: #d5fefd;
+  background-image: linear-gradient(315deg, #d5fefd 0%, #fffcff 74%);
+border: 1px solid white;
+box-shadow: 0 1px white inset, 0 0 10px 5px rgba(0, 0, 0, 0.1);
+border-radius: 2px;
+width: 380px;
+height: 500px;
+margin: 60px auto;
+padding: 15px;
+text-align:center;
+}
+ 
+
+h1{
+  color: rgba(32, 63, 238, 0.801);
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 40px ;
+}
+
+p{
+
+  font-size: 50px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: lighter;
+}
+
+
+Button {
+  padding: 20px;
+border-radius: 5px;
+margin: 20px;
+border: none;
+}
+
+
+Button:hover{
+  background-color: rgba(255, 71, 71, 0.233);
+  color: rgb(32, 5, 5);
+}
